@@ -1,4 +1,4 @@
-# WBDDDD 下载工具
+# WBDDD 下载工具
 一款轻量、高效的微博资源下载辅助工具。
 
 ---
@@ -21,7 +21,7 @@ VIP 幽灵巡逻：
 
 ## 📥 下载说明
 ### 最新版本：v1.9
-- GitHub Release：[点击下载](https://github.com/ccrefrain/WBDDDD/releases/latest)
+- GitHub Release：[点击下载](https://github.com/ccrefrain/WBDDD/releases/latest)
 - 备用下载（国内网盘）：`https://wwapv.lanzout.com/b01883y3ed 密码:WBDDD`
 
 > 优先推荐使用 GitHub 官方下载，速度慢可切换备用链接
@@ -63,5 +63,5 @@ A：请提交 Issue 反馈你的使用场景和链接，我会尽快修复。
 ---
 
 ## 💬 反馈与支持
-- 遇到问题/有功能建议，欢迎在 [Issues](https://github.com/ccrefrain/WBDDDD/issues) 反馈
+- 遇到问题/有功能建议，欢迎在 [Issues](https://github.com/ccrefrain/WBDDD/issues) 反馈
 - 如果你觉得工具好用，欢迎点个 ⭐ Star 支持一下！
