@@ -33,11 +33,7 @@ VIP 幽灵巡逻：
 实测 微软Defender、火绒、卡巴斯基、ESET Bitdefender、Kaspersky、Avast、Windows Defender、Symantec、McAfee均通过。代码纯手写，保证无毒，请放心使用或加入白名单。
 
 ### 安全保障说明：
-1.  所有发布包均经过 MetaDefender、VirusTotal 多引擎扫描，无任何恶意代码
-2.  可通过下方校验值验证文件完整性，确保未被篡改
-    - 文件名：`BLDDD_1.9.z`
-    - MD5：`[这里填写你生成的MD5值]`
-    - SHA256：`[这里填写你生成的SHA256值]`
+所有发布包均经过 MetaDefender、VirusTotal 多引擎扫描，无任何恶意代码
 
 > 如遇报毒，请添加信任/关闭实时防护后使用，或自行核对文件校验值。
 
